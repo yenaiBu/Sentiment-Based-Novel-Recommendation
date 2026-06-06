@@ -1,0 +1,11 @@
+flask>=3.0
+flask-cors>=4.0
+flask-sqlalchemy>=3.1
+pymysql>=1.1
+torch>=2.0
+transformers>=4.40
+pandas>=2.0
+openpyxl>=3.1
+scikit-learn>=1.5
+requests>=2.31
+beautifulsoup4>=4.12
